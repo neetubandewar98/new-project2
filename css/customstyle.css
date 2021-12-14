@@ -1,0 +1,32 @@
+.text-custom {
+    color: #26e4e7!important;
+}
+.bg-dark {
+    background-color: #2b2b2b!important;
+}
+
+/* upload file input custom */
+.custom-upload {
+    margin-top: 3px;
+  }
+  
+  .custom-upload input, textarea {
+    padding: 10px 15px;
+    border: 0px;
+    outline: #4646463f auto 1px;
+    width: auto;
+    font-size: 12px;
+    border-radius: 5px;
+  }
+  
+  .custom-upload-over {
+    margin-left: -35px;
+  }
+
+  input:focus-visible, textarea:focus-visible {
+    outline: #26e4e7 auto 1px;
+}
+
+.blog-description{
+  width: 100% !important;
+}
